@@ -33,7 +33,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 ![image](https://github.com/mkpene/configure-ad/assets/142267681/149eea87-97ef-437a-881e-9ee5015a66ff)
 
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+I logged into the Azure portal and navigated to the "Virtual Machines" section. I initiated the creation of two virtual machines, one for the domain controller and another for the client. I selected the appropriate operating systems, configurations, and resource specifications for each machine.
 </p>
 <br />
 
