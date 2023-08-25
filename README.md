@@ -49,6 +49,6 @@ I started with the domain controller virtual machine. After its deployment, I ac
 ![image](https://github.com/mkpene/configure-ad/assets/142267681/c1d228d9-f159-4281-a609-45e9a8c33fa9)
 
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+I created a code that generated a bunch of user accounts. Then on the client machine, I logged in using one of the user accounts I had created in the Active Directory on the domain controller. I verified that the client machine was correctly configured to use the Azure DNS server provided by the domain controller. This ensured reliable communication with the domain. I conducted network connectivity tests to confirm that both virtual machines could communicate with each other. This helped me understand the importance of a stable network connection in a cloud-based Active Directory environment.
 </p>
 <br />
