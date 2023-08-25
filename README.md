@@ -41,7 +41,7 @@ I logged into the Azure portal and navigated to the "Virtual Machines" section. 
 ![image](https://github.com/mkpene/configure-ad/assets/142267681/1c6ec953-0e58-4b53-ab7e-8317df4cfde0)
 
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+I started with the domain controller virtual machine. After its deployment, I accessed it through Remote Desktop. Then, I proceeded to install the Active Directory Domain Services role using the Server Manager. This initiated the promotion of the machine to a domain controller. Within the Active Directory Users and Computers console on the domain controller, I created user accounts and security groups, mirroring the network users I wanted to simulate.
 </p>
 <br />
 
